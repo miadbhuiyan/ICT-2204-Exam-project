@@ -1,0 +1,122 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  text-decoration: none;
+}
+.top-icon-bar{
+  display: flex;
+  padding-left: 40px;
+  background-color: rgb(223, 223, 234);
+  height:90px;
+
+}
+
+.pizzalogo{
+  padding-top:4px;
+  height: 80px;
+  width: 120px;
+}
+.topul{
+  margin-left: 300px;
+  margin-top: 30px;
+
+}
+li{
+  padding-right: 50px;
+  list-style-type: none;
+  display: inline;
+  font-size:20px;
+  color:rgb(18, 101, 120)
+}
+.submit{
+height: 50px;
+width: 120px;
+background-color: rgba(204, 175, 175, 0.638);
+color: rgb(205, 184, 184);
+border-radius: 8px;
+margin-left: 20px;
+}
+
+
+
+
+.sign-link{
+  margin-bottom: 60px;
+}
+.pizza{
+height: 500px;
+width:1280px;
+}
+.piz{
+  display: flex;
+  background-image: url(./piz.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 9rem 0;
+}
+.iulogo{
+height: 100px;
+padding-left: 70px;
+padding-top: 30px;
+}
+.write{
+color: rgb(255, 255, 255);
+padding-left: 35px;
+font-size: 50px;
+font-family: Verdana, Geneva, Tahoma, sans-seri;
+}
+.piz2{
+  background-image: url(./piz2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 20rem 0;
+  
+}
+.piz2{
+  margin:60px;
+}
+.location{
+margin-top:9px;
+margin-left: 90px;
+margin-bottom: 0px;
+display: flex;
+}
+.bold{
+  font-weight: bold;
+  font-size: 30px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.call{
+  background-color: rgb(11, 79, 11);
+  color: white; 
+  height: 50px;
+  width: 250px;
+  border-radius: 8px;
+}
+.loc{
+  padding-left: 50px;
+height: 170px;
+width: 250px;
+}
+.loc2{
+  padding-left: 60px;
+height: 170px;
+width: 500px;
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(210, 177, 166);
+  color: white;
+  height:110px;
+}
+.footerdiv{
+display: flex;
+padding-top: 15px;
+}
+.social{
+color:black;
+padding-top: -30px;
+}
